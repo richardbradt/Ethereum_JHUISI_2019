@@ -1,3 +1,8 @@
+pragma solidity ^0.4.25;
+// EtherStore contract pulled from sigp/solidity-security-blog GitHub
+// for research purposes.
+// https://github.com/sigp/solidity-security-blog.git
+
 contract EtherStore {
 
   uint256 public withdrawalLimit = 1 ether;

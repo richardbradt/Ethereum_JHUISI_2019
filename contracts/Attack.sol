@@ -1,4 +1,9 @@
+pragma solidity ^0.4.25;
 import "EtherStore.sol";
+
+// Attack contract pulled from sigp/solidity-security-blog GitHub
+// for research purposes.  Works with EtherStore.sol.
+// https://github.com/sigp/solidity-security-blog.git
 
 contract Attack {
   EtherStore public etherStore;
