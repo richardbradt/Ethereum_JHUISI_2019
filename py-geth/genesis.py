@@ -1,3 +1,5 @@
+# Richard Bradt, JHUISI 2019
+#
 # python3 genesis.py [arguments]
 #   [-c chainID]
 #   [-h homesteadBlock]
