@@ -10,15 +10,9 @@ Security research concerning smart contracts using Solidity and Ethereum.  JHUIS
 * genesis.py
     - Creates basic genesis.json file used for blockchain initialization.  Takes some command-line arguments.
 
-Future outline:
+Wiki's To Write:
 * Solidity / Ethereum Overview
-* Set-up Instructions
-    - Geth Installation
-    - Geth create private blockchain
-    - Add nodes (local or remote)
-    - Create wallet and mine test ether
-    - Deploy contract
-    - Interact with contract
+
 * Solidity Attacks
     - Re-entrancy
     
