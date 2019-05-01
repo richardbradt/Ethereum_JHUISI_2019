@@ -2,19 +2,13 @@
 Security research concerning smart contracts using Solidity and Ethereum.  JHUISI 2019.
 
 /contracts      Solidity contracts used during research.
-* Re-entrancy
-    - EtherStore.sol
-    - Attack.sol
     
 /py_geth        Python scripts used for automating the blockchain process.
-* genesis.py
-    - Creates basic genesis.json file used for blockchain initialization.  Takes some command-line arguments.
+
+Wikis           Provides explanations on test environment, contracts, and scripts.
 
 Wiki's To Write:
 * Solidity / Ethereum Overview
-
-* Solidity Attacks
-    - Re-entrancy
     
 ### References 
 * Solidity Documentation: https://solidity.readthedocs.io/en/latest/installing-solidity.html#prerequisites-all-operating-systems
