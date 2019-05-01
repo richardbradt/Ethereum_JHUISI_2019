@@ -1,11 +1,11 @@
 # Ethereum_JHUISI_2019
 Security research concerning smart contracts using Solidity and Ethereum.  JHUISI 2019.
 
-/contracts      Solidity contracts used during research.
+    /contracts      Solidity contracts used during research.
     
-/py_geth        Python scripts used for automating the blockchain process.
+    /py_geth        Python scripts used for automating the blockchain process.
 
-Wikis           Provides explanations on test environment, contracts, and scripts.
+    Wikis           Provides explanations on test environment, contracts, and scripts.
 
 Wiki's To Write:
 * Solidity / Ethereum Overview
